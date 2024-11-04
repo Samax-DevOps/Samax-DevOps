@@ -66,7 +66,7 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 ### 📫 How to reach me?
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/samax-patel/) 👨🏻‍💻
- - Follow me on [Instagram](https://www.instagram.com/samaxpatel/) ✨
+ - Follow me on [Instagram]() ✨
  - Shoot Me an [Email](mailto:patelsamax@gmail.com) 💌
 
 
