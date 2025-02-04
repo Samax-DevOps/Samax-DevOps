@@ -42,6 +42,9 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
+   <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg"  height="75" />
+  </a>
  </p>
   
 ### Databases and Monitoring
