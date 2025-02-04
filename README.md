@@ -36,19 +36,21 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 ### DevOps
   
  <p float="left">
+   
+   
   <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg"  height="45" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
    <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg"  height="75" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg"  height="90" />
   </a>
    
-   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg"  height="74" />
-  </a>
  </p>
   
 ### Databases and Monitoring
