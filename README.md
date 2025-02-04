@@ -17,11 +17,11 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
-  
+ <!-- 
   <a href="https://www.djangoproject.com/" target="_blank" >
     <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
   </a>
-  
+  -->
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>
